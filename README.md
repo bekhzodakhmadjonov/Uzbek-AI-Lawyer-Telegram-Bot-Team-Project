@@ -5,3 +5,8 @@ Tech Stack:
 - aiogram
 - openai
 - chromaDB
+
+Team Members:
+Sardor Safarboyev
+Darvon Normamatov
+Bexzod Axmadjonov
