@@ -1,0 +1,10 @@
+# Data
+data/raw/
+data/vectorstore/
+
+# Env
+.env
+
+# Python
+__pycache__/
+*.pyc
